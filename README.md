@@ -9,6 +9,4 @@
 
 ## Student Information
 
-Full Name: Chukwuma Angel
-
-Student Number: 041068750
+Full Name: Mishandeep Kumar
